@@ -1,0 +1,70 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-normal);
+    font-weight: var(--font-weight-regular);
+}
+
+main {
+    max-width: var(--max-page-width);
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+:root {
+    --max-page-width: 85rem;
+
+    --color-text-primary: #212121;
+    --color-text-success: #28a745;
+    --color-text-warning: #ffc107;
+    --color-text-error: #dc3545;
+    --color-text-white: #fff;
+
+
+    --royal-blue-color: #4f46e5;
+
+
+    --backgroundcolor-primary: #fff;
+
+
+    /* text Hover colors */
+
+    --color-text-primary-hover: #4f46e5;
+
+    /* Border colors */
+    --border-color-primary: #e5e7eb;
+
+
+    /* For captions, disclaimers */
+    --font-size-xs: 0.75rem;
+    /* For secondary text */
+    --font-size-sm: 0.875rem;
+    /* Assuming the base size is 16px, The base font size for body text */
+    --font-size-base: 1rem;
+    /* For less important headings or introductory text. */
+    --font-size-md: 1.125rem;
+    /* For main headings or important content highlights. */
+    --font-size-lg: 1.5rem;
+    /* For major headings. */
+    --font-size-xl: 2rem;
+    /* For critical headings or standout display text. */
+    --font-size-xxl: 2.5rem;
+
+
+    --line-height-tight: 1.2;
+    --line-height-snug: 1.3;
+    /* A good default line height */
+    --line-height-normal: 1.5;
+    --line-height-relaxed: 1.65;
+    --line-height-loose: 1.8;
+
+
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+}
