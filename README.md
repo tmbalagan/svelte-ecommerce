@@ -4,7 +4,7 @@ Welcome to the Simple Svelte Emoji Ecommerce project! 🎉 This project is an in
 
 ## 🚧 Project Status
 
-Please note that this project is currently under development. Features may be added, removed, or changed as I work towards the final version. Your feedback and contributions are welcome! 🛠️
+Please note that this project is currently under development. Features may be added, removed, or changed as I work towards the final version. Your feedback are welcome! 🛠️
 
 ## Getting Started 🚀
 
@@ -23,3 +23,29 @@ To get started with the Simple Svelte Emoji Ecommerce project, clone the reposit
 
 ```bash
 git clone https://github.com/tmbalagan/svelte-eCommerce.git
+npm i
+npm run dev
+```
+
+## Project Updates
+
+### ✨ Added Features
+
+As of the latest update, the project includes the following features:
+
+- **Initial Setup:** Basic configuration and scaffolding of the project.
+- **Landing Page:** A welcoming front page for visitors.
+- **Cart Functionality:** Allows users to add and remove emojis from their shopping cart.
+- **Store:** A comprehensive list of available emojis for purchase.
+
+### 🚀 Upcoming Features
+
+We are continuously working to improve the Simple Svelte Emoji Ecommerce project. Here's what you can expect in the future:
+
+- **Server Setup:** Implementation of backend services to manage the application's data.
+- **Authentication:** Secure login and signup processes for users.
+- **Admin Panel:** An interface for administrators to manage the store's inventory, view orders, and more.
+- **Order List:** A feature for users to view their past orders and track current order statuses.
+
+Stay tuned for more updates as we progress in developing these features!
+
