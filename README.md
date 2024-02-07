@@ -40,12 +40,12 @@ As of the latest update, the project includes the following features:
 
 ### 🚀 Upcoming Features
 
-We are continuously working to improve the Simple Svelte Emoji Ecommerce project. Here's what you can expect in the future:
+I'm continuously working to improve the Simple Svelte Emoji Ecommerce project. Here's what you can expect in the future:
 
 - **Server Setup:** Implementation of backend services to manage the application's data.
 - **Authentication:** Secure login and signup processes for users.
 - **Admin Panel:** An interface for administrators to manage the store's inventory, view orders, and more.
 - **Order List:** A feature for users to view their past orders and track current order statuses.
 
-Stay tuned for more updates as we progress in developing these features!
+Stay tuned for more updates as I progress in developing these features!
 
