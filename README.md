@@ -26,6 +26,7 @@ git clone https://github.com/tmbalagan/svelte-eCommerce.git
 npm i
 npm run dev
 ```
+**Love Svelte Emoji Ecommerce? Give my repo a star! ⭐⬆️**
 
 ## Project Updates
 
